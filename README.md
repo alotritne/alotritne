@@ -1,79 +1,135 @@
-<h1 align="center">Hi 👋, I'm Triết</h1>
-<h3 align="center">AI Developer • Computer Vision • Sign Language Recognition</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+Developer;Computer+Vision+Engineer;Vietnamese+Sign+Language+AI;TensorFlow+%7C+MediaPipe+%7C+Python" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111111,100:2b2b2b&height=220&section=header&text=TRIẾT&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=45"/>
 
----
+<br>
 
-## 🚀 About Me
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Fullstack+Developer;AI+Engineer;Mobile+%2F+Web+Developer;Automation+Tool+Builder;Building+cool+things" />
 
-- 🎯 Building Vietnamese Sign Language Recognition AI
-- 🤖 Working with Computer Vision & Deep Learning
-- 🧠 Training LSTM models using MediaPipe landmarks
-- 🌐 Interested in AI Web Applications & APIs
-- ⚡ Love optimizing ML pipelines
+</div>
 
 ---
 
-## 🛠 Tech Stack
+# about me
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### AI / ML
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge)
+<table>
+<tr>
+<td width="50%">
 
-### Backend
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+```ts
+const triet = {
+    role: [
+        "Fullstack Developer",
+        "AI Engineer",
+        "Mobile Developer",
+        "Automation Builder"
+    ],
 
----
+    currentProject: "VSIGN - AI Sign Language Learning App",
 
-## 📌 Featured Projects
+    interests: [
+        "Large Scale Systems",
+        "Optimization",
+        "Automation",
+        "New Technologies"
+    ],
 
-### 🧠 Vietnamese Sign Language Recognition
-AI model using MediaPipe + LSTM to recognize Vietnamese sign language from video.
+    tech: [
+        "Python",
+        "Java",
+        "React",
+        "FastAPI",
+        "TensorFlow",
+        "OpenCV",
+        "Docker",
+        "NodeJS"
+    ]
+}
 
-### 🎥 Landmark Extraction Pipeline
-Extracting pose & hand landmarks from videos using MediaPipe Holistic.
+```
 
-### 🌐 AI Translation Web App
-Realtime sign language recognition integrated with frontend & API.
+</td>
 
----
+<td width="50%">
 
-## 📊 GitHub Stats
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="100%"/>
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alotritne&show_icons=true&theme=tokyonight"/>
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alotritne&layout=compact&theme=tokyonight"/>
-</p>
 
----
+</td>
+</tr>
+</table>
 
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=alotritne&theme=tokyonight"/>
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-<a href="https://github.com/alotritne">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-</p>
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6A00FF&height=120&section=footer"/>
-</p>
+# current focus
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/VSIGN-AI%20Learning%20Platform-white?style=for-the-badge"/>
+
+</div>
+
+<br>
+
+VSIGN is a sign language learning platform integrating:
+
+* AI recognition
+* realtime prediction
+* computer vision
+* interactive learning systems
+* modern web technologies
+
+---
+
+# tech stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,react,fastapi,tensorflow,opencv,docker,nodejs&theme=dark"/>
+
+</div>
+
+---
+
+# development philosophy
+
+```txt
+Build scalable systems.
+Optimize everything possible.
+Automate repetitive work.
+Learn by creating.
+Keep things clean and simple.
+```
+---
+
+# pixel corner
+
+<div align="center">
+
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2Fma3Y5djRrcXd4eGMxN3lnNmowaGcxdTE5ZnhhbmFld3VtYXV4dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LoBwYBdIztLgIYujMC/giphy.gif" width="500"/>
+
+</div>
+
+---
+
+<div align="center">
+
+```txt
+"Building cool things"
+```
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=alotritne&style=flat-square&color=ededed"/>
+
+</div>
+
+<br>
+
+
