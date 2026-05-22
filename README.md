@@ -1,30 +1,79 @@
-<h1 align="left">Hi 👋! I'm Nguyen Ngoc Minh Triet and I'm a college student, from Vietnam</h1>
+<h1 align="center">Hi 👋, I'm Triết</h1>
+<h3 align="center">AI Developer • Computer Vision • Sign Language Recognition</h3>
 
-###
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+Developer;Computer+Vision+Engineer;Vietnamese+Sign+Language+AI;TensorFlow+%7C+MediaPipe+%7C+Python" />
+</p>
 
-<img align="right" height="150" src="https://scontent.fdad3-1.fna.fbcdn.net/v/t1.6435-9/157641698_273779850812114_3454335405190176126_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeEDS5kCep8p7vr3lzGSVXPsMvPsmWGBon8y8-yZYYGif4p7M1fNZkIawuB4HzryBUFcXTdYVE18O3aDC5ydQz93&_nc_ohc=xXWW_AFoSygQ7kNvgHVBXPN&_nc_ht=scontent.fdad3-1.fna&oh=00_AYACluPUY0of9uqgZPhQ4SVZig30tKUAmG8U-fnJ8ZYHpA&oe=66E106A4"  />
+---
 
-###
+## 🚀 About Me
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-</div>
+- 🎯 Building Vietnamese Sign Language Recognition AI
+- 🤖 Working with Computer Vision & Deep Learning
+- 🧠 Training LSTM models using MediaPipe landmarks
+- 🌐 Interested in AI Web Applications & APIs
+- ⚡ Love optimizing ML pipelines
 
-###
+---
 
-<div align="left">
-  <a href="https://www.instagram.com/iammtrit/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://www.facebook.com/alotritne/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
-  </a>
-  <a href="mailto:alotritne@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://t.me/N3r4y" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
-  </a>
-</div>
+## 🛠 Tech Stack
 
-###
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### AI / ML
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge)
+
+### Backend
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+---
+
+## 📌 Featured Projects
+
+### 🧠 Vietnamese Sign Language Recognition
+AI model using MediaPipe + LSTM to recognize Vietnamese sign language from video.
+
+### 🎥 Landmark Extraction Pipeline
+Extracting pose & hand landmarks from videos using MediaPipe Holistic.
+
+### 🌐 AI Translation Web App
+Realtime sign language recognition integrated with frontend & API.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alotritne&show_icons=true&theme=tokyonight"/>
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alotritne&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=alotritne&theme=tokyonight"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://github.com/alotritne">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6A00FF&height=120&section=footer"/>
+</p>
